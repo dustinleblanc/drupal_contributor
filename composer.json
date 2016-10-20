@@ -1,0 +1,13 @@
+{
+    "name": "dustinleblanc/drupal_contributor",
+    "type": "Project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dustin LeBlanc",
+            "email": "dustin.m.leblanc@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
